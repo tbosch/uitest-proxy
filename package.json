@@ -1,0 +1,29 @@
+{
+    "name": "uitest-proxy",
+    "description": "Proxy for running uitest.js cross domain and without modifying the html pages",
+    "version": "0.9.0-SNAPSHOT",
+    "private": true,
+    "homepage": "https://github.com/tigbro/uitest-proxy",
+    "author": {
+        "name": "Tobias Bosch",
+        "email": "tobias.bosch@opitz-consulting.com"
+    },
+    "devDependencies": {
+        "http-proxy": "latest"
+    },
+    "engine": "node *",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tigbro/uitest-proxy.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tigbro/uitest-proxy/issues"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/tigbro/uitest-proxy/blob/master/LICENSE-MIT"
+    }],
+    "keywords": [],
+    "scripts": {
+    }
+}
